@@ -1,0 +1,8 @@
+.country {
+    border: 2px solid rgb(62, 255, 62);
+    padding: 20px;
+}
+
+.country-not-visited{
+    background-color: aqua;
+}
